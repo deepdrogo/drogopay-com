@@ -15,6 +15,7 @@
 <img src="https://img.shields.io/badge/Live-1a1a1a?style=for-the-badge&labelColor=0d0d0d" alt="Live"/>
 <a href="https://drogopay.com/"><img src="https://img.shields.io/badge/Website-drogopay.com-1a1a1a?style=for-the-badge&labelColor=0d0d0d&logo=googlechrome&logoColor=white" alt="Website"/></a>
 <a href="https://t.me/drogoz"><img src="https://img.shields.io/badge/Telegram-%40drogoz-1a1a1a?style=for-the-badge&labelColor=0d0d0d&logo=telegram&logoColor=white" alt="Telegram"/></a>
+<img src="https://img.shields.io/badge/Source-private%20repository-1a1a1a?style=for-the-badge&labelColor=0d0d0d&logo=github&logoColor=white" alt="Source: private repository"/>
 <a href="https://drogoz.network"><img src="https://img.shields.io/badge/Part%20of-Drogoz%20Network-c9a855?style=for-the-badge&labelColor=000000" alt="Part of Drogoz Network"/></a>
 
 <br/>
@@ -276,6 +277,7 @@ See DrogoPay in action before you pay — our agent gets in touch and walks you 
 | ✈️ **Telegram** | [@drogoz](https://t.me/drogoz) |
 | 🏛️ **Drogoz Network** | [drogoz.network](https://drogoz.network) · [Services](https://drogoz.network/#services) · [Packages](https://drogoz.network/#packages) · [Pricing](https://drogoz.network/pricing/) · [Presentation](https://drogoz.network/presentation/) |
 | ⚖️ **Legal** | [Terms](https://drogopay.com/legal/terms) · [Acceptable Use](https://drogopay.com/legal/acceptable-use) · [Privacy](https://drogopay.com/legal/privacy) · [Refunds](https://drogopay.com/legal/refunds) · [Disclaimer](https://drogopay.com/legal/disclaimer) · [Compliance](https://drogopay.com/legal/compliance) |
+| 🔒 **Source code** | Private repository — this public repo documents the product only |
 | 🐙 **GitHub** | [deepdrogo](https://github.com/deepdrogo/deepdrogo) |
 
 <br/>
