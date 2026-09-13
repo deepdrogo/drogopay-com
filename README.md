@@ -11,8 +11,7 @@
 ### Crypto payments that move as fast as the blockchain does.
 
 <img src="https://img.shields.io/badge/Category-Payments-c9a855?style=for-the-badge&labelColor=0d0d0d" alt="Category: Payments"/>
-<img src="https://img.shields.io/badge/Status-New-c9a855?style=for-the-badge&labelColor=0d0d0d" alt="Status: New"/>
-<img src="https://img.shields.io/badge/Live-1a1a1a?style=for-the-badge&labelColor=0d0d0d" alt="Live"/>
+<img src="https://img.shields.io/badge/Status-Live-ffffff?style=for-the-badge&labelColor=0d0d0d" alt="Status: Live"/>
 <a href="https://drogopay.com/"><img src="https://img.shields.io/badge/Website-drogopay.com-1a1a1a?style=for-the-badge&labelColor=0d0d0d&logo=googlechrome&logoColor=white" alt="Website"/></a>
 <a href="https://t.me/drogoz"><img src="https://img.shields.io/badge/Telegram-%40drogoz-1a1a1a?style=for-the-badge&labelColor=0d0d0d&logo=telegram&logoColor=white" alt="Telegram"/></a>
 <img src="https://img.shields.io/badge/Source-private%20repository-1a1a1a?style=for-the-badge&labelColor=0d0d0d&logo=github&logoColor=white" alt="Source: private repository"/>
@@ -59,7 +58,7 @@ Live at [drogopay.com](https://drogopay.com/). Product guide: [drogopay.com/guid
 <table>
 <tr>
 <td align="center" width="25%"><b>Category</b><br/><sub>Payments</sub></td>
-<td align="center" width="25%"><b>Status</b><br/><sub>New · Live</sub></td>
+<td align="center" width="25%"><b>Status</b><br/><sub>Live</sub></td>
 <td align="center" width="25%"><b>Website</b><br/><sub><a href="https://drogopay.com/">drogopay.com</a></sub></td>
 <td align="center" width="25%"><b>Pricing</b><br/><sub>Shown in-product · demo on request</sub></td>
 </tr>
@@ -143,8 +142,8 @@ Operators get a live command center rather than a report: volume, revenue, balan
 
 <table>
 <tr>
-<td width="50%" align="center"><img src="assets/drogopay-og.png" alt="DrogoPay — Crypto payments that move as fast as the blockchain does. Real-time detection, isolated signing, payment recovery."/><br/><sub>DrogoPay — real-time detection · isolated signing · payment recovery</sub></td>
 <td width="50%" align="center"><img src="assets/drogopay-landing-hero.png" alt="drogopay.com — hero with a live checkout preview: unique address, QR, confirmations and timeline"/><br/><sub>drogopay.com — hosted checkout preview: unique address, QR, live confirmations</sub></td>
+<td width="50%" align="center"><img src="assets/drogopay-landing-engine.png" alt="Live transaction engine — realtime detections, confirmations, withdrawals and webhooks"/><br/><sub>Nothing waits for refresh — every state change streams live</sub></td>
 </tr>
 <tr>
 <td width="50%" align="center"><img src="assets/drogopay-landing-recovery.png" alt="Payment recovery — underpaid, overpaid, split transfers and unmatched funds are classified, never lost"/><br/><sub>Wrong amount is not an error state — underpaid, overpaid, split and unmatched</sub></td>
@@ -152,14 +151,15 @@ Operators get a live command center rather than a report: volume, revenue, balan
 </tr>
 <tr>
 <td width="50%" align="center"><img src="assets/drogopay-landing-operations.png" alt="Operations command center — volume, revenue, asset mix and queues that need a human"/><br/><sub>One screen that answers: does anything need me right now?</sub></td>
-<td width="50%" align="center"><img src="assets/drogopay-developers.png" alt="Developer documentation — signed requests, payment creation, webhooks and a live OpenAPI reference"/><br/><sub>Developer documentation — signed API, webhooks, hosted checkout</sub></td>
+<td width="50%" align="center"><img src="assets/drogopay-landing-platform.png" alt="Developer surface — signed REST requests, webhook events and resumable realtime updates"/><br/><sub>A REST API for state, a socket for change</sub></td>
 </tr>
 <tr>
+<td width="50%" align="center"><img src="assets/drogopay-developers.png" alt="Developer documentation — signed requests, payment creation, webhooks and a live OpenAPI reference"/><br/><sub>Developer documentation — quickstart, API, webhooks and realtime</sub></td>
 <td width="50%" align="center"><img src="assets/drogopay-guide.png" alt="Product guide — how DrogoPay works for payers, merchants, operators and developers"/><br/><sub>Product guide — 26 topics, screen by screen, for everyone who touches it</sub></td>
-<td width="50%" align="center"><img src="assets/drogopay-login.png" alt="Merchant and operator sign-in — same door, destination depends on who you are"/><br/><sub>Welcome back — merchant and operator accounts use the same sign-in</sub></td>
 </tr>
 <tr>
-<td width="50%" align="center" colspan="2"><img src="assets/drogopay-signup.png" alt="Create a merchant account — accept crypto payments with an API you can trust"/><br/><sub>Create a merchant account — dedicated addresses, signed keys, signed webhooks, hosted checkout</sub></td>
+<td width="50%" align="center"><img src="assets/drogopay-login.png" alt="Merchant and operator sign-in — same door, destination depends on who you are"/><br/><sub>Welcome back — merchant and operator accounts use the same sign-in</sub></td>
+<td width="50%" align="center"><img src="assets/drogopay-signup.png" alt="Create a merchant account — accept crypto payments with an API you can trust"/><br/><sub>Create a merchant account — dedicated addresses, signed keys, signed webhooks, hosted checkout</sub></td>
 </tr>
 </table>
 
@@ -296,7 +296,7 @@ See DrogoPay in action before you pay — our agent gets in touch and walks you 
   <a href="https://t.me/drogoz"><img src="https://img.shields.io/badge/%40drogoz-1a1a1a?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/></a>
   <a href="mailto:hello@drogoz.network"><img src="https://img.shields.io/badge/hello%40drogoz.network-1a1a1a?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <br/><br/>
-  <sub><b>More from the network:</b> <a href="https://github.com/deepdrogo/drog-ai">Drog AI</a> · <a href="https://github.com/deepdrogo/mymask-ai">MyMask AI</a> · <a href="https://github.com/deepdrogo/replika">Replika</a> · <a href="https://github.com/deepdrogo/lidaro-ai">Lidaro AI</a> · <a href="https://github.com/deepdrogo/imperatori">IMPERATORI</a> · <a href="https://github.com/deepdrogo/zoi-talks">ZOI Talks</a> · <a href="https://github.com/deepdrogo/riderswap-io">RiderSwap</a> · <a href="https://github.com/deepdrogo/hyperblast-ai">HyperBlast AI</a> · <a href="https://github.com/deepdrogo/verifhub-ai">VerifHub AI</a> · <a href="https://github.com/deepdrogo/vadira-net">Vadira</a> · <a href="https://github.com/deepdrogo/skriper-io">Skriper</a> · <a href="https://github.com/deepdrogo/mytasker">MyTasker</a> · <a href="https://github.com/deepdrogo/mamont-tech">Mamont</a> · <a href="https://github.com/deepdrogo/drogscan">DrogScan</a></sub>
+  <sub><b>More from the network:</b> <a href="https://github.com/deepdrogo/hashgram">Hashgram One</a> · <a href="https://github.com/deepdrogo/drog-ai">Drog AI</a> · <a href="https://github.com/deepdrogo/mymask-ai">MyMask AI</a> · <a href="https://github.com/deepdrogo/replika">Replika</a> · <a href="https://github.com/deepdrogo/lidaro-ai">Lidaro AI</a> · <a href="https://github.com/deepdrogo/imperatori">IMPERATORI</a> · <a href="https://github.com/deepdrogo/zoi-talks">ZOI Talks</a> · <a href="https://github.com/deepdrogo/riderswap-io">RiderSwap</a> · <a href="https://github.com/deepdrogo/hyperblast-ai">HyperBlast AI</a> · <a href="https://github.com/deepdrogo/verifhub-ai">VerifHub AI</a> · <a href="https://github.com/deepdrogo/vadira-net">Vadira</a> · <a href="https://github.com/deepdrogo/skriper-io">Skriper</a> · <a href="https://github.com/deepdrogo/mytasker">MyTasker</a> · <a href="https://github.com/deepdrogo/mamont-tech">Mamont</a> · <a href="https://github.com/deepdrogo/drogscan">DrogScan</a></sub>
   <br/><br/>
   <sub>© 2026 Drogoz Network. All rights reserved. Provided strictly for lawful use — see the <a href="https://drogopay.com/legal/terms">Legal</a> pages. Each user is solely responsible for how they use the software. DrogoPay does not hold or convert fiat and is not a bank or an exchange.</sub>
 </div>
